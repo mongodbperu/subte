@@ -4,3 +4,6 @@
 [submodule "M101JS"]
 	path = M101JS
 	url = https://github.com/MongoDBPeru/subte-m101js.git
+[submodule "Utilities"]
+	path = Utilities
+	url = https://github.com/MongoDBPeru/subte-utilities.git
