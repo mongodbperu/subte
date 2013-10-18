@@ -1,9 +1,12 @@
 [submodule "M101P"]
 	path = M101P
 	url = https://github.com/MongoDBPeru/subte-m101p.git
+	ignore = dirty
 [submodule "M101JS"]
 	path = M101JS
 	url = https://github.com/MongoDBPeru/subte-m101js.git
+	ignore = dirty
 [submodule "Utilities"]
 	path = Utilities
 	url = https://github.com/MongoDBPeru/subte-utilities.git
+	ignore = dirty
